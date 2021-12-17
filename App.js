@@ -18,6 +18,7 @@ function HomeScreen( {navigation}) {
     </TouchableOpacity>
   );
 }
+// sample comment
 
 
  function addColor(){
